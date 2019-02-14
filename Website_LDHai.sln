@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_LDHai", "Website_LDHai\Website_LDHai.csproj", "{057B372F-7ADF-44AF-B5C3-6BF534373C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_LDHai.Tests", "Website_LDHai.Tests\Website_LDHai.Tests.csproj", "{8BC30F40-EC38-490A-8223-13A20A1849F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation Layer", "1. Presentation Layer", "{A7372C30-9292-45B7-AD94-0A729BCBF946}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Service Layer", "2. Service Layer", "{5B417BE1-BFBF-49A8-B17D-74364E32AF0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Business Layer", "3. Business Layer", "{E8A0FCF9-AE1B-45F8-BBC5-EC35E032C371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Data Layer", "4. Data Layer", "{CB0EBB03-4162-4B3D-B94A-AB299968286A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_LDHai.DataAccess", "Website_LDHai.DataAccess\Website_LDHai.DataAccess.csproj", "{7D60D181-A6FF-4942-9F64-48778D8F3D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_LDHai.BusinessObject", "Website_LDHai.BusinessObject\Website_LDHai.BusinessObject.csproj", "{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web Application", "Web Application", "{6B46A276-0F5D-44CE-90A4-4ED0B14A6679}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows Application", "Windows Application", "{F48F40F2-45FA-4D32-951A-EEBB16D7CC34}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Unit Test", "5. Unit Test", "{CB8257A0-7927-4757-A75A-57893DD03A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website_LDHai.BusinessFacade", "Website_LDHai.BusinessFacade\Website_LDHai.BusinessFacade.csproj", "{00236BCF-78E6-4F13-8719-3BC62245D120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057B372F-7ADF-44AF-B5C3-6BF534373C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057B372F-7ADF-44AF-B5C3-6BF534373C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057B372F-7ADF-44AF-B5C3-6BF534373C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057B372F-7ADF-44AF-B5C3-6BF534373C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BC30F40-EC38-490A-8223-13A20A1849F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC30F40-EC38-490A-8223-13A20A1849F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC30F40-EC38-490A-8223-13A20A1849F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC30F40-EC38-490A-8223-13A20A1849F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D60D181-A6FF-4942-9F64-48778D8F3D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D60D181-A6FF-4942-9F64-48778D8F3D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D60D181-A6FF-4942-9F64-48778D8F3D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D60D181-A6FF-4942-9F64-48778D8F3D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00236BCF-78E6-4F13-8719-3BC62245D120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00236BCF-78E6-4F13-8719-3BC62245D120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00236BCF-78E6-4F13-8719-3BC62245D120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00236BCF-78E6-4F13-8719-3BC62245D120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{057B372F-7ADF-44AF-B5C3-6BF534373C95} = {6B46A276-0F5D-44CE-90A4-4ED0B14A6679}
+		{8BC30F40-EC38-490A-8223-13A20A1849F7} = {CB8257A0-7927-4757-A75A-57893DD03A8E}
+		{7D60D181-A6FF-4942-9F64-48778D8F3D6B} = {CB0EBB03-4162-4B3D-B94A-AB299968286A}
+		{C14D229F-D2DF-4EF2-BBF4-6DBC3A8F7F88} = {E8A0FCF9-AE1B-45F8-BBC5-EC35E032C371}
+		{6B46A276-0F5D-44CE-90A4-4ED0B14A6679} = {A7372C30-9292-45B7-AD94-0A729BCBF946}
+		{F48F40F2-45FA-4D32-951A-EEBB16D7CC34} = {A7372C30-9292-45B7-AD94-0A729BCBF946}
+		{00236BCF-78E6-4F13-8719-3BC62245D120} = {E8A0FCF9-AE1B-45F8-BBC5-EC35E032C371}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BD16669-0F76-4454-A51E-F5370DB87DCE}
+	EndGlobalSection
+EndGlobal

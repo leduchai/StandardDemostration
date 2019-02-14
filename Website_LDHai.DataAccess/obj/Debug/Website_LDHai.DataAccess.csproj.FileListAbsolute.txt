@@ -1,0 +1,12 @@
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\Website_LDHai.DataAccess.dll.config
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\Website_LDHai.DataAccess.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\Website_LDHai.DataAccess.pdb
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\EntityFramework.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\EntityFramework.xml
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\obj\Debug\Website_LDHai.DataAccess.csprojAssemblyReference.cache
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\obj\Debug\Website_LDHai.DataAccess.csproj.CoreCompileInputs.cache
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\obj\Debug\Website_LDHai.DataAccess.csproj.CopyComplete
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\obj\Debug\Website_LDHai.DataAccess.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.DataAccess\obj\Debug\Website_LDHai.DataAccess.pdb

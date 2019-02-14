@@ -1,0 +1,12 @@
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\Website_LDHai.BusinessObject.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\Website_LDHai.BusinessObject.pdb
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\Website_LDHai.DataAccess.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\EntityFramework.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\Website_LDHai.DataAccess.pdb
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\Website_LDHai.DataAccess.dll.config
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\bin\Debug\EntityFramework.xml
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\obj\Debug\Website_LDHai.BusinessObject.csprojAssemblyReference.cache
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\obj\Debug\Website_LDHai.BusinessObject.csproj.CoreCompileInputs.cache
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\obj\Debug\Website_LDHai.BusinessObject.csproj.CopyComplete
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\obj\Debug\Website_LDHai.BusinessObject.dll
+D:\CMC\Fresher\Visual\WebMVC\Website_LDHai\Website_LDHai.BusinessObject\obj\Debug\Website_LDHai.BusinessObject.pdb
